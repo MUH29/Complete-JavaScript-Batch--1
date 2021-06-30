@@ -3,7 +3,7 @@ Operators have precedence. Precedence defines the order in which the expression 
 
 # Operator Precedence from highest to lowest.
 # Precedence	Operators
-`Highest	( )`
+`Highest	( )`<br/>
  `++ — (postfix) new typeof`
 `++ — (prefix) + – (unary) ! ~`
 `* / %`
