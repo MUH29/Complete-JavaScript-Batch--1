@@ -5,9 +5,10 @@ Operators have precedence. Precedence defines the order in which the expression 
 # Precedence	Operators
 Colons can be used to align columns.
 
-| Tables        | Are           
+| Precedence        | Operators           
 | ------------- |:-------------
-| col 3 is      | right-aligned 
+| Highest       | ( )
+                  ++ — (postfix) new typeof 
 | col 2 is      | centered      
 | zebra stripes | are neat      
 
