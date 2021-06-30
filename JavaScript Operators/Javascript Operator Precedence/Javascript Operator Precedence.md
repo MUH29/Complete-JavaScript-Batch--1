@@ -133,6 +133,7 @@ alert(a <= c)//true
 ## JavaScript Bitwise Operators with Examples:
 The bitwise operators are work for 32-bit integers in JavaScript. Bitwise operator ~ turns all 0 to 1 and all 1 to 0. Like ! for Boolean expressions but works bit by bit. The operators |, &, and ^ behave like bitwise ||, && and ^. The << and >> move the bits left or right.
 The behavior of the operators &, | and ^:
+
 | Operation	| &	| &	| &	| &	| |	| |	| |	| |	| ^	| ^	| ^	| ^
 | ------------- |:-------------| ------------- |:-------------
 | Operand1	| 0	| 0	| 1	| 1	| 0	| 0	| 1	| 1	| 0	| 0	| 1	| 1
