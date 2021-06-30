@@ -8,7 +8,7 @@ Colons can be used to align columns.
 | Precedence        | Operators           
 | ------------- |:-------------
 | Highest       | ( )
-                  ++ — (postfix) new typeof 
+|               |++ — (postfix) new typeof 
 | col 2 is      | centered      
 | zebra stripes | are neat      
 
