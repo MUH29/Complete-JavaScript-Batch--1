@@ -77,7 +77,7 @@ alert(c); //6
 # Decrement (–) Operator:
 This operator decrements numbers by one. The following is an example of decrement operator:
 
-var a = 5;
+var a = 5;<br>
 a–;
 var c = a;
 alert(c); //4
